@@ -30,3 +30,4 @@ A responsive web application that lets users **generate QR codes** from any text
    ```bash
    git clone https://github.com/yourusername/qr-code-generator.git
 
+![image](https://github.com/user-attachments/assets/92afe133-db3b-46b8-beeb-65b9b5d2abf8)
